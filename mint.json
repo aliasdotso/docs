@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://github.com/aliasdotso/assets/assets/91486218/9c325574-8817-4a6b-b2c8-177515c838f1",
+    "light": "https://github.com/aliasdotso/assets/assets/91486218/fc358f84-52cd-430f-ab53-42a16f4b0c9e"
   },
   "favicon": "https://github.com/aliasdotso/assets/assets/91486218/a5c76db9-dccf-4c07-99df-e55460c7ea13",
   "colors": {
