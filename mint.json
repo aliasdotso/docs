@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Docs",
   "logo": {
-    "dark": "https://github.com/aliasdotso/assets/assets/91486218/9c325574-8817-4a6b-b2c8-177515c838f1",
-    "light": "https://github.com/aliasdotso/assets/assets/91486218/fc358f84-52cd-430f-ab53-42a16f4b0c9e"
+    "dark": "https://github.com/hyperlinkscom/assets/assets/91486218/9c325574-8817-4a6b-b2c8-177515c838f1",
+    "light": "https://github.com/hyperlinkscom/assets/assets/91486218/fc358f84-52cd-430f-ab53-42a16f4b0c9e"
   },
-  "favicon": "https://github.com/aliasdotso/assets/assets/91486218/a5c76db9-dccf-4c07-99df-e55460c7ea13",
+  "favicon": "https://github.com/hyperlinkscom/assets/assets/91486218/a5c76db9-dccf-4c07-99df-e55460c7ea13",
   "colors": {
     "primary": "#171191",
     "light": "#4E46DD",
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hello@alias.so"
+      "url": "mailto:support@hyperlinks.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://alias.so"
+    "url": "https://hyperlinks.com"
   },
   "tabs": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Github",
       "icon": "github",
-      "url": "https://github.com/aliasdotso"
+      "url": "https://github.com/hyperlinkscom"
     }
   ],
   "navigation": [
@@ -68,7 +68,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/aliasdotso",
-    "github": "https://github.com/aliasdotso"
+    "twitter": "https://twitter.com/hyperlinkscom",
+    "github": "https://github.com/hyperlinkscom"
   }
 }
